@@ -54,7 +54,6 @@
 .home_title h1,
 .home_title p {
     transition: 0.7s ease-in-out;
-    color:red;
 }
 
 .home_title p {
@@ -173,8 +172,8 @@
 .about p {
     margin: 20px 0;
     font-size: 18px;
-    text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
-    color: red;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.1);
+    color: white;
 }
 
 #moreabout {
