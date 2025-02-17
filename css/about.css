@@ -5,7 +5,7 @@
     z-index: 0;
     min-height: 500px;
     width: 100%;
-    background: black url(../img/particle-test.webp) no-repeat center;
+    background: black;
     /* overflow: hidden; */
 }
 
