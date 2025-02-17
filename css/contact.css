@@ -1,7 +1,8 @@
 @import "styles.css";
 
 body {
-    background-image: url(../img/particle-test.webp);
+    /* background-image: url(../img/particle-test.webp); */
+    background-color: whitesmoke;
 }
 
 #myVideo {
